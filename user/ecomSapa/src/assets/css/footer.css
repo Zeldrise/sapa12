@@ -1,0 +1,42 @@
+.footerback{
+     background-color: #f9e0aecb;
+}
+.footer-text{
+     font-size: 13px;
+     font-family: 'Roboto Condensed', sans-serif;
+     font-weight: 600;
+ }
+
+ .footer-link{
+     text-decoration: none;
+     color: #000000;
+     font-size: 15px;
+     font-family: 'Roboto Condensed', sans-serif;
+     font-weight: 400;
+ }
+ .footer-link:hover{
+     text-decoration: none;
+     color: #c24914;
+ }
+
+ .footer-menu-title{
+     font-size: 18px;
+     color: #000000;
+     font-family: 'Roboto Condensed', sans-serif;
+     font-weight: 600;
+ }
+ .fa-facebook{
+  color: #3b5998;
+ }
+ .fa-instagram{
+  color: #bc2a8d;
+ }
+ .fa-twitter{
+  color:  #1DA1F2;
+ }
+ .fa-youtube{
+  color: #FF0000;
+ }
+ .fi{
+    background-color: #c24914;
+ }
